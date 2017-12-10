@@ -41,7 +41,7 @@ for _, tagcode in read_from_gnt_dir(gnt_dir=train_data_dir):
 
 char_list = list(char_set)
 char_dict = dict(zip(sorted(char_list), range(len(char_list))))
-with open('text.txt','w') as file:
+with open('char_dict.txt','w') as file:
     file.write('{'+'\n')
     for key,value in char_dict.items():
         file.write('\"'+str(value)+'\":\"'+str(key)+'\",\n')
