@@ -1,0 +1,7 @@
+#model parameters
+checkpoint
+#log file
+log
+#other file
+__pycache__
+.idea

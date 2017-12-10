@@ -1,0 +1,22 @@
+{
+  "window":{
+   "size":[900,930] ,
+   "geometry":[400,30]
+  },
+  "showImg":{
+    "size":[379,676],
+    "geometry":[35,135]
+  },
+  "Video":{
+    "size":[379, 676],
+    "geometry":[437, 190]
+  },
+  "ovalRange":[178,830,268,920],
+  "rectRange":[35,414,135,811],
+  "imgRange":[0,379,0,676],
+  "APP":{
+    "APP_ID":"10506983",
+    "API_KEY":"CVtYvxKNOiH10oZeToH6HOV5",
+    "SECRET_KEY":"2GgNfisU81cKn9BvypF2HoUPtGTxVhKZ "
+  }
+}
